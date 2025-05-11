@@ -1,0 +1,40 @@
+{
+    "category": "Одяг",
+    "products": [
+        {
+            "id": 1,
+            "name": "Джинси Classic",
+            "shortname": "jeans-classic",
+            "description": "Класичні джинси з комфортного деніму.",
+            "price": 1299
+        },
+        {
+            "id": 2,
+            "name": "Футболка Premium",
+            "shortname": "tshirt-premium",
+            "description": "М'яка футболка з преміум бавовни.",
+            "price": 599
+        },
+        {
+            "id": 3,
+            "name": "Куртка Urban",
+            "shortname": "jacket-urban",
+            "description": "Стильна куртка для міського стилю.",
+            "price": 2499
+        },
+        {
+            "id": 4,
+            "name": "Светр Casual",
+            "shortname": "sweater-casual",
+            "description": "Теплий светр для повсякденного носіння.",
+            "price": 899
+        },
+        {
+            "id": 5,
+            "name": "Штани Sport",
+            "shortname": "pants-sport",
+            "description": "Зручні спортивні штани для активного відпочинку.",
+            "price": 799
+        }
+    ]
+} 

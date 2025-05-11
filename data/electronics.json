@@ -1,0 +1,40 @@
+{
+    "category": "Електроніка",
+    "products": [
+        {
+            "id": 1,
+            "name": "Смартфон X1",
+            "shortname": "smartphone-x1",
+            "description": "Потужний смартфон з 6.5-дюймовим екраном та потрійною камерою.",
+            "price": 15999
+        },
+        {
+            "id": 2,
+            "name": "Ноутбук Pro",
+            "shortname": "laptop-pro",
+            "description": "Легкий та продуктивний ноутбук для роботи та розваг.",
+            "price": 34999
+        },
+        {
+            "id": 3,
+            "name": "Навушники Air",
+            "shortname": "airpods",
+            "description": "Бездротові навушники з активним шумоподавленням.",
+            "price": 4999
+        },
+        {
+            "id": 4,
+            "name": "Смарт-годинник",
+            "shortname": "smartwatch",
+            "description": "Стильний годинник з функціями моніторингу здоров'я.",
+            "price": 2999
+        },
+        {
+            "id": 5,
+            "name": "Планшет Ultra",
+            "shortname": "tablet-ultra",
+            "description": "Потужний планшет з 10-дюймовим екраном та стилусом.",
+            "price": 19999
+        }
+    ]
+} 
