@@ -1,0 +1,28 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Електроніка",
+            "shortname": "electronics",
+            "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        },
+        {
+            "id": 2,
+            "name": "Одяг",
+            "shortname": "clothing",
+            "notes": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        },
+        {
+            "id": 3,
+            "name": "Книги",
+            "shortname": "books",
+            "notes": "Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+        },
+        {
+            "id": 4,
+            "name": "Спорт",
+            "shortname": "sports",
+            "notes": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum."
+        }
+    ]
+} 
